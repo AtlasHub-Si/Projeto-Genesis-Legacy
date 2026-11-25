@@ -1,3 +1,11 @@
+# Projeto-Genesis-Legacy
+
+> **LEGACY — retired project.** LEGACY — Historical foundational strategy; superseded by AtlasHub Galaxy portfolio baseline.
+>
+> Historical documentation retained below. Do not deploy, distribute or restart development from this repository. See the [current portfolio](https://github.com/AtlasHub-Si/.github/blob/main/PORTFOLIO.md).
+
+---
+
 # Projeto Genesis — AtlasHub Foundations
 
 **Portfolio status:** Historical strategy; review before execution.
