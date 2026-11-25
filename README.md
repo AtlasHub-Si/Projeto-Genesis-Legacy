@@ -1,3 +1,13 @@
+# Projeto Genesis — AtlasHub Foundations
+
+**Portfolio status:** Historical strategy; review before execution.
+
+Retain foundational strategy and research. The current portfolio baseline is AtlasBot, AtlasHQ, AtlasCortex, AtlasInfra, AtlasDesk, AtlasClub, AtlasWorkforce and Galaxy; superseded plans are not implementation instructions.
+
+> Existing documentation is retained below for provenance. See the [AtlasHub institutional profile](https://github.com/AtlasHub-Si) for current product scope.
+
+---
+
 # Projeto Genesis — AtlasHub × GWD
 
 Base documental v0.3 · 5 de novembro de 2026.
@@ -32,3 +42,7 @@ A comunidade não confere participação societária. A via de investimento regi
 ## AtlasHub.SI — legal identity, support and provenance
 
 This project forms part of the [AtlasHub.SI ecosystem](https://atlashub.si), stewarded with the [SergioMonteiro-Atlas](https://github.com/sergiomonteiro-atlas) source reference. See [ATLAS.md](ATLAS.md), [LEGAL.md](LEGAL.md) and [LICENSE](LICENSE) for the original-materials rights notice. **Legal:** legal@Atlas-SI.com · **Support:** support@AtlasHub.SI.
+
+
+---
+[AtlasHub.SI](https://atlashub.si) · London · Lisbon · Goiânia
